@@ -1,10 +1,7 @@
 ---
 layout: post
-title: How to solve problems using Node JS
+title: programming
 subtitle: Step by step procedure of problem solving approach with JavaScript and NodeJS
-cover-img: https://source.unsplash.com/random
-thumbnail-img: https://source.unsplash.com/random
-share-img: https://source.unsplash.com/random
 tags: [programming, coding]
 ---
 
@@ -27,4 +24,4 @@ class Person
 }
 ```
 
-![Image Code](../assets/img/Screenshot%20from%202021-02-17%2000-13-06.png)
+![Image Code](/assets/img/Screenshot%20from%202021-02-17%2000-13-06.png)
