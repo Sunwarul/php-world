@@ -24,4 +24,5 @@ class Person
 }
 ```
 
-![Image Code](/assets/img/Screenshot%20from%202021-02-17%2000-13-06.png)
+![Image Code](../assets/img/2021-03-05_23-01.png)
+
